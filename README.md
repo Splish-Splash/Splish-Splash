@@ -7,11 +7,10 @@
 - SQL🔃
 - Also know C➕➕, JavaScript, Scala, C#
 
-## Contacts:
-[<img width="22px" allign="left" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" />][linkedin]
-[<img width="22px" allign="left" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" />][telegram]
-[<img width="22px" allign="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
-
+## Links:
+[<img width="36px" allign="left" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" />][linkedin]
+[<img width="36px" allign="left" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-512.png" />][telegram]
+[<img width="36px" allign="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />][kaggle]
 <br />
 
 ## Skills:

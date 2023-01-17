@@ -1,4 +1,4 @@
-### Hello HR😸 or just random stranger🚶, my name is Oleksii Seniushkovych and this is my github profile
+### Hello recruiter😸 or just random stranger🚶, my name is Oleksii Seniushkovych and this is my github profile
 
 ## I am:
 - Python🐍 programmer👨‍💻

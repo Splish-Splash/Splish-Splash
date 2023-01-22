@@ -2,7 +2,7 @@
 
 ## I am:
 - Python🐍 programmer👨‍💻
-- currently studying Data Science📊, especially Machine Learning📉
+- Currently studying Data Science📊, especially Machine Learning📉
 - My 2️⃣0️⃣2️⃣3️⃣ goals is to find a job, learn new Machine Learning models, write my own, especially in NLP and CV fields, and develop other skills related to Data Science
 - SQL🔃
 - Also know C➕➕, JavaScript, Scala, C#

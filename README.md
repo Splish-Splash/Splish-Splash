@@ -3,7 +3,7 @@
 ## I am:
 - Python🐍 programmer👨‍💻
 - currently studying Data Science📊, especially Machine Learning📉
-- My 2️⃣0️⃣2️⃣3️⃣ goals is to find a job, participating in <img width="11px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" /> kaggle competitions, learning new Machine Learning models and other skills related to Data Science pipeline
+- My 2️⃣0️⃣2️⃣3️⃣ goals is to find a job, learn new Machine Learning models, write my own, especially in NLP and CV fields, and develop other skills related to Data Science
 - SQL🔃
 - Also know C➕➕, JavaScript, Scala, C#
 

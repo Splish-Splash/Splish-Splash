@@ -26,7 +26,7 @@
 [kaggle]: https://www.kaggle.com/spl1shspl4sh
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=splish-splash&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splish-splash&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splish-splash&layout=compact&langs_count=4&theme=dracula"/>
 </div>
 
 ![Snake animition](https://github.com/splish-splash/splish-splash/blob/output/github-contribution-grid-snake.svg)

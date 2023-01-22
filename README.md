@@ -24,3 +24,5 @@
 [linkedin]: https://www.linkedin.com/in/spl1shspl4sh/
 [telegram]: t.me/fitk_krut
 [kaggle]: https://www.kaggle.com/spl1shspl4sh
+
+![snake_animition](https://github.com/splish-splash/splish-splash/blob/output/github-contribution-grid-snake.svg

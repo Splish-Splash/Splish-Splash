@@ -5,7 +5,7 @@
 - Currently studying Data Science📊, especially Machine Learning📉
 - My 2️⃣0️⃣2️⃣3️⃣ goals is to find a job, learn new Machine Learning models, write my own, especially in NLP and CV fields, and develop other skills related to Data Science
 - SQL🔃
-- Also know C➕➕, JavaScript, Scala, C#
+- Also know C➕➕, JavaScript, Scala
 
 ## Links:
 [<img width="36px" allign="left" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" />][linkedin]

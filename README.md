@@ -1,10 +1,10 @@
-### Hello recruiter😸 or just random stranger🚶, my name is Oleksii Seniushkovych and this is my github profile
+### Hello random stranger🚶, my name is Oleksii Seniushkovych and this is my github profile
 
 ## I am:
 - Python🐍 programmer👨‍💻
-- Currently studying Data Science📊, especially Machine Learning📉
-- My 2️⃣0️⃣2️⃣3️⃣ goals is to find a job, learn new Machine Learning models, write my own, especially in NLP and CV fields, and develop other skills related to Data Science
-- SQL🔃
+- Currently working and mindcraft.ai as a Data Scientist📊 and Machine Learning Engineer📉
+- Have experience with AWS, Azure, Python Web Development
+- SQL🔃, MS SQL Server, MongoDB, DynamoDB
 - Also know C➕➕, JavaScript, Scala
 
 ## Links:
@@ -19,7 +19,8 @@
 - Pytorch, scikit-learn, XGBoost
 - Machine Learning algorithms: Linear & Logistic Regression, KNN, KMeans, PCA, Decision Trees, Random Forest & Boosting
 - Deep Learning algorithms: Neural Networks, RNN(LSTM & GRU), Convolutional NN, Transformers
-- Linear Algebra, Statistics, Data Structures and Algorithms 
+- Linear Algebra, Statistics, Data Structures and Algorithms
+- Cloud computing
 
 [linkedin]: https://www.linkedin.com/in/spl1shspl4sh/
 [telegram]: t.me/fitk_krut

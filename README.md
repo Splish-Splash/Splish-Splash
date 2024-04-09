@@ -1,4 +1,4 @@
-### Hello random stranger🚶, my name is Oleksii Seniushkovych and this is my github profile
+### Hello, my name is Oleksii Seniushkovych and this is my github profile
 
 ## I am:
 - Python🐍 programmer👨‍💻

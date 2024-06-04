@@ -1,5 +1,3 @@
-### Hello, my name is Oleksii Seniushkovych and this is my github profile
-
 ## I am:
 - Python🐍 programmer👨‍💻
 - Currently working and mindcraft.ai as a Data Scientist📊 and Machine Learning Engineer📉
@@ -23,7 +21,7 @@
 - Cloud computing
 
 [linkedin]: https://www.linkedin.com/in/spl1shspl4sh/
-[telegram]: t.me/fitk_krut
+[telegram]: t.me/splish_splash
 [kaggle]: https://www.kaggle.com/spl1shspl4sh
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=splish-splash&show_icons=true&theme=dracula&include_all_commits=true"/>

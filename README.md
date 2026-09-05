@@ -1,9 +1,8 @@
 ## I am:
-- Python🐍 programmer👨‍💻
+- Machine Learning Engineer.
 - Currently working and mindcraft.ai as a Data Scientist📊 and Machine Learning Engineer📉
 - Have experience with AWS, Azure, Python Web Development
 - SQL🔃, MS SQL Server, MongoDB, DynamoDB
-- Also know C➕➕, JavaScript, Scala
 
 ## Links:
 [<img width="36px" allign="left" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-512.png" />][linkedin]
